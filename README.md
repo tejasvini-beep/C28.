@@ -1,1 +1,1 @@
-# C28.
+# project-C28-template
